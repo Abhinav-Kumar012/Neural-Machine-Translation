@@ -156,7 +156,7 @@ The models were trained on publicly available parallel corpora:
 
 ## 🧑‍💻 The Team
 
-*    ([**Abhinav Kumar**](https://github.com/)) - Seq2Seq model training, report preparation.
+*    ([**Abhinav Kumar**](https://github.com/Abhinav-Kumar012)) - Seq2Seq model training, report preparation.
 *   ([**Abhinav Deshpande**](https://github.com/Abhinav-gh)) - Seq2Seq & Transformer model definition, audio pipeline architecture.
 *    ([**Vaibhav Bajoriya**](https://github.com/bajoriya-vaibhav)) - Transformer model training & definition, TTS model integration.
 *    ([**Shashank Devarmani**](https://github.com/)) - Test video preparation, speech-to-text integration, pipeline debugging.
