@@ -159,7 +159,7 @@ The models were trained on publicly available parallel corpora:
 *    ([**Abhinav Kumar**](https://github.com/Abhinav-Kumar012)) - Seq2Seq model training, report preparation.
 *   ([**Abhinav Deshpande**](https://github.com/Abhinav-gh)) - Seq2Seq & Transformer model definition, audio pipeline architecture.
 *    ([**Vaibhav Bajoriya**](https://github.com/bajoriya-vaibhav)) - Transformer model training & definition, TTS model integration.
-*    ([**Shashank Devarmani**](https://github.com/)) - Test video preparation, speech-to-text integration, pipeline debugging.
+*    ([**Shashank Devarmani**](https://github.com/standing-on-giants)) - Test video preparation, speech-to-text integration, pipeline debugging.
 
 ### Acknowledgments
 *   This project was completed as part of our coursework at the **International Institute of Information Technology, Bangalore**.
